@@ -1,2 +1,3 @@
 # firstrepo
-This is my First Git repository.
+This is my first Git repository.
+Author - Hemant Singh Jandu
